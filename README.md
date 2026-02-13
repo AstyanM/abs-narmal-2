@@ -88,8 +88,8 @@ abs_narmal2/
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/abs_narmal2.git
-cd abs_narmal2
+git clone https://github.com/AstyanM/abs-narmal-2.git
+cd abs-narmal-2
 pip install -r requirements.txt
 ```
 
